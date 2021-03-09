@@ -1,0 +1,1 @@
+![Algo-Strike-Poster](./cp_contest_1.png)
